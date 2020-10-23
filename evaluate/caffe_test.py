@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 import sys,os
-sys.path.append('../../ssd_caffe/python')
+sys.path.append('../ssd_caffe/python')
 from sklearn import preprocessing
 import caffe
 import argparse

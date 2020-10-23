@@ -2,3 +2,9 @@
 *.bmp
 *.png
 *.caffemodel
+*.pth
+*.prototxt
+*.caffemodel
+*testerror
+*.npz
+

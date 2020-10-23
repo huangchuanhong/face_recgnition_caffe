@@ -1,6 +1,6 @@
 import sys
 #sys.path.insert(0,'../caffe/python')
-sys.path.append('../ssd_caffe/python')
+sys.path.append('./ssd_caffe/python')
 #sys.path.insert(0,"../../../caffe/ssd/caffe/python")
 import caffe
 from caffe.proto import caffe_pb2

@@ -5,7 +5,7 @@ import sys
 # sys.path.insert(0, "../../../../caffe/caffe/python")
 # sys.path.insert(0, "../../../../../caffe/caffe/python")
 #sys.path.insert(0,'../caffe/python')
-sys.path.append('../ssd_caffe/python')
+sys.path.append('./ssd_caffe/python')
 from caffe import layers as L, params as P
 import os
 import os.path as osp

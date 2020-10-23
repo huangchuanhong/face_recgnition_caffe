@@ -5,7 +5,7 @@ import sys
 import os
 import time
 #sys.path.append('../rfcn_learn/caffe/python')
-sys.path.append('../ssd_caffe/python')
+sys.path.append('./ssd_caffe/python')
 import caffe
 import argparse
 #np.set_printoptions(threshold=np.inf)
